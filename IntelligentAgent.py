@@ -136,7 +136,4 @@ class IntelligentAgent(BaseAI):
     
         
 
-   # Combine the components using the specified weights and return the evaluation score
-    
-
-#figure this out
+   
