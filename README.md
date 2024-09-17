@@ -1,1 +1,1 @@
-Created an adversarial search agent to play the 2048-puzzle game
+This project implements an Intelligent Agent designed to play a 2048-like game. The agent uses the Minimax algorithm with alpha-beta pruning to determine the optimal move at each stage of the game. It maximizes the score by evaluating the game grid based on certain heuristics, such as the number of available cells, monotonicity, and smoothness of the tile distribution.
